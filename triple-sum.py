@@ -1,3 +1,10 @@
+"""
+Written by: Connor Damato
+Date: 10/14/2021
+Description: This program is designed to compare the time complexity of three different algorithms that solve the triple sum problem. 
+The triple sum problem is defined as finding three values in an array that sum to zero.
+"""
+
 import random
 import time
 import matplotlib.pyplot as plt
